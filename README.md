@@ -26,7 +26,8 @@ print(b)
 ```
 ## Output:
 
-![Screenshot_20230324_103624](https://user-images.githubusercontent.com/119393621/227429743-e51579e5-9468-4f35-9e56-8241b1bd0622.png)
+![rank](https://user-images.githubusercontent.com/119393621/227699979-abab248e-a86b-4220-a951-55b66f11096a.png)
+
 
 
 ## Result:
